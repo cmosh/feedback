@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Feedback</string>
+    <string-array name="faculty">
+        <item>Faculty</item>
+        <item>FIT</item>
+        <item>SMC</item>
+        <item>SoA</item>
+        <item>CTH</item>
+        <item>SFAE</item>
+    </string-array>
+
+    <string-array name="course">
+        <item>Course</item>
+        <item>BBIT</item>
+        <item>BTC</item>
+        <item>ICS</item>
+        <item>BCom</item>
+        <item>Tourism</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>Semester</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="title_activity_scrolling">My Feedback Form</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Settings</string>
+
+</resources>
